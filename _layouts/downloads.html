@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">FLIMfit {{ page.version }}</h1>
+	<ul>
+		<li>Please note that this version of FLIMfit is compatible with OMERO 5.1 servers. If you require compatibility with an OMERO 5.0 server, earlier versions are available from the main downloads folder.</li>
+
+		<li>Mac users, please note that in order to run FLIMfit you will need the correct MCR (MATLAB Compiler Runtime) installed on your system (currently 2015b, v9.0) which enables the execution of compiled MATLAB applications or components on computers that do not have MATLAB installed. If you do not, or are in any doubt, please also download the MCR for your platform below. The Windows Installer will automatically install the MCR. The link below to the Windows MCR is provided only in case of problems.</li>
+
+		<li>Please explicitly acknowledge "the FLIMfit software tool developed at Imperial College London" in any publications benefitting from its use. In order for us to monitor the use of FLIMfit and to support its ongoing development, we would be grateful if you could send details of any such publications (particularly DOIs of published papers) to: info@flimfit.org.au</li>
+
+		<li>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</li>
+	</ul>
+
+	<h2>FLIMfit downloads</h2>
+	<a href="{{ page.pc-download }}">FLIMfit {{ page.version }} (PC)</a><br/>
+	<a href="{{ page.mac-download }}">FLIMfit {{ page.version }} (Mac)</a><br/>
+
+	<h2>MCR downloads</h2>
+	<a href="http://downloads.flimfit.org/mcr/MCR_{{ page.mcr-version }}_win64_installer.exe">MCR (PC)</a><br/>
+	<a href="http://downloads.flimfit.org/mcr/MCR_{{ page.mcr-version }}_maci64_installer.zip">MCR (Mac)</a><br/>
+
+</div>
