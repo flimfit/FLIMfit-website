@@ -1,1 +1,3 @@
-4.10.3
+---
+---
+{% assign latest = site.data.downloads | first %}{{ latest.version }}

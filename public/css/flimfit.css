@@ -1,0 +1,13 @@
+.theme-base-0c .content .download-button a {
+    background-color: #acd3cc;
+    color: white; 
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.theme-base-0c .content .download-button :hover {
+     background-color: #75b5aa;
+     text-decoration: none;
+}
+
