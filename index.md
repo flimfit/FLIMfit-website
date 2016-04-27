@@ -3,9 +3,11 @@ layout: page
 title: FLIMfit
 ---
 
+{% assign latest = site.data.downloads | first %} 
+
 FLIMfit is a software tool and an OMERO client that is designed to facilitate analysis and visualisation of time-resolved data from FLIM (Fluorescence Lifetime Imaging) measurements including time-correlated single photon counting (TCSPC) and wide-field time-gated imaging. It can incorporate image segmentation and utilises a highly efficient algorithm that can globally fit FLIM data with modest photon numbers to complex decay models, across hundreds of fields of view, requiring only tens of seconds of processing time on a reasonable desktop computer. This makes it useful to analyse time series or multiwell plate FLIM data. Please see [Warren et al, 2013](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070687) for further details.
 
-<span class="download-button">[Download FLIMfit for Windows or Mac]({{site.baseurl}}downloads/latest)</span>
+<span class="download-button">[Download FLIMfit {{latest.version}} for Windows or Mac]({{site.baseurl}}downloads/latest)</span>
 
 ![placeholder]({{site.baseurl}}images/screenshot.png)
 
