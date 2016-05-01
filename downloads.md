@@ -13,7 +13,7 @@ Previous Versions
 
 | FLIMfit | OMERO compatibility |
 |---------|---------------------|
-{% for download in site.data.downloads %} | [FLIMfit {{ download.version }}]({{site.baseurl}}download/{{download.version}}) | OMERO {{download.ome-version}} | 
+{% for download in site.data.downloads %} | [FLIMfit {{ download.version }}]({{site.baseurl}}downloads/{{download.version}}) | OMERO {{download.ome-version}} | 
 {% endfor %}
 
 Older versions may be download from [the OMERO server](downloads.openmicroscopy.org/flimfit). 
