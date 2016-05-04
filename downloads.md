@@ -16,4 +16,4 @@ Previous Versions
 {% for download in site.data.downloads %} | [FLIMfit {{ download.version }}]({{site.baseurl}}downloads/{{download.version}}) | OMERO {{download.ome-version}} | 
 {% endfor %}
 
-Older versions may be download from [the OMERO server](downloads.openmicroscopy.org/flimfit). 
+Older versions may be download from [the OMERO server](http://downloads.openmicroscopy.org/flimfit). 
