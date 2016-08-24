@@ -23,7 +23,7 @@ paginate:         5
 paginate_path:    "/news/page:num/"
 
 # Custom vars
-version:          4.11.0
+version:          4.11.2
 
 links:
    mailing-list:  http://lists.openmicroscopy.org.uk/mailman/listinfo/flimfit-users/
