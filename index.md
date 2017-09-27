@@ -33,7 +33,11 @@ This software was primarily developed by Sean Warren within the [Photonics Group
 
 Please explicitly acknowledge "the FLIMfit software tool developed at Imperial College London" in any publications benefitting from its use. In order for us to monitor the use of FLIMfit and to support its ongoing development, we would be grateful if you could send details of any such publications (particularly DOIs of published papers) to: FLIMfit@imperial.ac.uk.
 
-Licensing and citing information is on the [OME licensing page](http://www.openmicroscopy.org/site/about/licensing-attribution).
+
+FLIMfit is available under a GNU public “copyleft” license.
+
+For questions about the GNU license refer to the Frequently Asked Questions about the [GNU licenses page](http://www.gnu.org/licenses/gpl-faq.html).
+
 
 User support
 ------------
