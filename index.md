@@ -36,7 +36,7 @@ Please explicitly acknowledge "the FLIMfit software tool developed at Imperial C
 
 FLIMfit is available under a GNU public “copyleft” license.
 
-For questions about the GNU license refer to the Frequently Asked Questions about the [GNU licenses page](http://www.gnu.org/licenses/gpl-faq.html).
+For questions about the GNU license refer to the [Frequently Asked Questions about the GNU licenses page](http://www.gnu.org/licenses/gpl-faq.html).
 
 
 User support
