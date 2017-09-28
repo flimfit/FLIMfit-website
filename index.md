@@ -31,8 +31,7 @@ Acknowledging FLIMfit
 ---------------------
 This software was primarily developed by Sean Warren within the [Photonics Group](http://www.openmicroscopy.org/site/about/development-teams/paul) of the Physics Department at Imperial College London as part of his PhD project, which was supported by the UK Engineering and Physical Sciences Council through a studentship from the Institute of Chemical Biology. This was undertaken with colleagues from the Photonics Group (Yuriy Alexandrov, Dominic Alibhai, Christopher Dunsby, Paul French, Douglas Kelly, Sunil Kumar, Romain Laine, Ian Munro, Clifford Talbot) and its integration with OMERO was supported through a Wellcome Trust grant entitled "The Open Microscopy Environment: Image Informatics for Biological Sciences" (Ref: 095931) in collaboration with colleagues from the University of Dundee.
 
-Please explicitly acknowledge "the FLIMfit software tool developed at Imperial College London" in any publications benefitting from its use. In order for us to monitor the use of FLIMfit and to support its ongoing development, we would be grateful if you could send details of any such publications (particularly DOIs of published papers) to the mailing list, described below, at: 
-    flimfit-users@lists.openmicroscopy.org.uk
+Please explicitly acknowledge "the FLIMfit software tool developed at Imperial College London" in any publications benefitting from its use. In order for us to monitor the use of FLIMfit and to support its ongoing development, we would be grateful if you could send details of any such publications (particularly DOIs of published papers) to: flimfit-users@lists.openmicroscopy.org.uk :the support mailing list described below.
 
 
 FLIMfit is available under a GNU public “copyleft” license.
