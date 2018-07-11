@@ -23,13 +23,13 @@ paginate:         5
 paginate_path:    "/news/page:num/"
 
 # Custom vars
-version:          4.11.2
+version:          5.1.0
 
 links:
    mailing-list:  http://lists.openmicroscopy.org.uk/mailman/listinfo/flimfit-users/
    downloads:     http://downloads.openmicroscopy.org/latest/flimfit/
    docs:          http://docs.flimfit.org/
-   video:         http://www.flimfit.org/video/
+   video:         http://www.vimeo.com/flimfit
 
 github:
   repo:           https://github.com/imperial-photonics/FLIMfit/
