@@ -1,3 +1,9 @@
+- version: '5.1.1'
+  mac-download: https://storage.googleapis.com/flimfit-downloads/release/5.1.1/FLIMfit_5.1.1_MACI64.zip
+  pc-download: https://storage.googleapis.com/flimfit-downloads/release/5.1.1/FLIMfit%205.1.1%20Setup%20x64.exe
+  mcr-version: R2016b
+  ome-version: '5.2'
+
 - version: '5.1.0'
   mac-download: https://storage.googleapis.com/flimfit-downloads/release/5.1.0/FLIMfit_5.1.0_MACI64.zip
   pc-download: https://storage.googleapis.com/flimfit-downloads/release/5.1.0/FLIMfit%205.1.0%20Setup%20x64.exe
